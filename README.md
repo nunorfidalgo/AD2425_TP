@@ -1,6 +1,6 @@
 # AD2425_TP
 
-Trabalho pratico de Analise de Dados 2024/2025
+Trabalho prático de Análise de Dados 2024/2025 - MEI AID ISEC
 
 Dataset: https://www.kaggle.com/datasets/puneet6060/intel-image-classification/data
 
